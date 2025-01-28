@@ -25,3 +25,23 @@ body,html{
   width: 80px;
   cursor: pointer;
 }
+.Footer{
+  height: 100px;
+  background-color: black;
+  
+  color: white;
+
+  
+}
+.Footer h3{
+  margin-left: 600px;
+  padding: 30px;
+  
+}
+.Land img{
+  margin-left: 400px;
+  width: 600px;
+  height: 400px;
+ 
+
+}
