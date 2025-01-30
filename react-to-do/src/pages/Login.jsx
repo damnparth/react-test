@@ -1,7 +1,14 @@
-function Login()
-{
-    return<>
-    <h1>login form</h1>
-    </>
-}
-export default Login;
+
+function Login() {
+    return (
+        <>
+        <form>
+            <input type="text" placeholder="enter username" />
+            <input type="password" placeholder="enter password" />
+        </form>
+        </>
+    )
+  }
+  
+  export default Login;
+  

@@ -1,13 +1,18 @@
 
 import Home from "./pages/Home"
-import Login from "./pages/Login"
-import Signup from "./pages/SignUp"
+
+import { BrowserRouter as Router } from "react-router-dom";
+
+
 function App() {
   
 
   return (
     <>
-    <Home></Home>
+    <Router>
+      <Home />
+      
+    </Router>
     
     
     </>

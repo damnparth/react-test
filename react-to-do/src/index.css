@@ -45,3 +45,9 @@ body,html{
  
 
 }
+form{
+ width: 30px;
+ margin-bottom: 335px;
+ margin-left: 550px;
+ padding-top: 10px;
+}
